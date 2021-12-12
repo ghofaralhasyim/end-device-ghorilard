@@ -11,10 +11,12 @@ For Simulation and Description of Ghorilard Project, Youtube Link:
 ## Table of Contents
 
 ## Ghorilard Architecture
-
-
-
-## Ghorilard Workflow
+<p align="center">
+  <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Arsitektur.png" width=900>
+</p>
+<p align="center">
+  Figure 2. Node MCU - ESP8266
+</p>
 
 ## Ghorilard Component
 ### Node MCU - ESP8266
@@ -66,6 +68,11 @@ TP4056A a charging module that will charge power from the solar cells to the bat
 <p align="center">
   Figure 4. TP4056A Charging Module
 </p>
+
+## Ghorilard Workflow
+- Device will turn on and start to get a sensor value
+- The power source of the device comes from sunlight that will convert to power by solar cell
+- TP4056A 
 
 ## Ghorilard Product Design
 <div>
