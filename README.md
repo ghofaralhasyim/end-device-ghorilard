@@ -12,7 +12,7 @@ For Simulation and Description of Ghorilard Project, Youtube Link:
 
 ## Ghorilard Architecture
 <p align="center">
-  <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Arsitektur.png" width=900>
+  <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Arsitektur1.png" width=900>
 </p>
 <p align="center">
   Figure 2. Node MCU - ESP8266
@@ -72,7 +72,12 @@ TP4056A a charging module that will charge power from the solar cells to the bat
 ## Ghorilard Workflow
 - Device will turn on and start to get a sensor value
 - The power source of the device comes from sunlight that will convert to power by solar cell
-- TP4056A 
+- TP4056A module will charge power to the battery 18650 and also give power to stepUp module
+- StepUp module will step up voltage to 5V and give voltage to NodeMCU
+- NodeMCU will give 3.3V to two sensor
+- This product will sense water per 30 minutes
+- The sense value of sensor will send by wifi router to the backend dan will store to the database
+- Frontend give a UI/UX to user so user can see the water quality of their prawn cultivation in real-time
 
 ## Ghorilard Product Design
 <div>
@@ -81,6 +86,4 @@ TP4056A a charging module that will charge power from the solar cells to the bat
 </div>
 
   Ghorilard Product has already design product that can be seen in the picture above. We made our design by 3D print that provide by our univesity (Universitas Multimedia Nusantara). We also use TinkerCad to make our design. there is one drawback in our design that is not able to float.
-
-## Important Notes
 
