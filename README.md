@@ -69,8 +69,8 @@ TP4056A a charging module that will charge power from the solar cells to the bat
 
 ## Ghorilard Product Design
 <div>
-  <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Ghorilard%201.jpg" display="inline" width=350>
-  <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Ghorilard%202.jpg" display="inline" width=350>
+  <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Ghorilard%201.jpg" display="inline" width=300>
+  <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Ghorilard%202.jpg" display="inline" width=300>
 </div>
 
   Ghorilard Product has already design product that can be seen in the picture above. We made our design by 3D print that provide by our univesity (Universitas Multimedia Nusantara). We also use TinkerCad to make our design. there is one drawback in our design that is not able to float.
