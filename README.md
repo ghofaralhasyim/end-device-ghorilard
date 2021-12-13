@@ -8,8 +8,6 @@ For Backend of Ghorilard Project, Github Link:
 
 For Simulation and Description of Ghorilard Project, Youtube Link:
 
-## Table of Contents
-
 ## Ghorilard Architecture
 <p align="center">
   <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Arsitektur1.png" width=900>
@@ -87,5 +85,5 @@ TP4056A a charging module that will charge power from the solar cells to the bat
   <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Ghorilard%202.jpg" display="inline" width=300>
 </div>
 
-  Ghorilard Product has already design product that can be seen in the picture above. We made our design by 3D print that provide by our univesity (Universitas Multimedia Nusantara). We also use TinkerCad to make our design. there is one drawback in our design that is not able to float.
+  Ghorilard Product has already design product that can be seen in the picture above. We made our design by 3D print that provide by our univesity (Universitas Multimedia Nusantara). We also use [TinkerCad](https://www.tinkercad.com/) to make our design. there is one drawback in our design that is not able to float.
 
