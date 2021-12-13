@@ -2,9 +2,9 @@
 
 End Device Ghorilard consists code, architecture, workflow of Ghorilard Project
 
-For Frontend of Ghorilard Project, Github Link:
+For Frontend of Ghorilard Project, Github Link: [https://github.com/ghofaralhasyim/fe-ghorilard](https://github.com/ghofaralhasyim/fe-ghorilard)
 
-For Backend of Ghorilard Project, Github Link:
+For Backend of Ghorilard Project, Github Link: [https://github.com/RichardAlvin/be-ghorilard](https://github.com/RichardAlvin/be-ghorilard)
 
 For Simulation and Description of Ghorilard Project, Youtube Link:
 
