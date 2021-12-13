@@ -68,9 +68,26 @@ TP4056A a charging module that will charge power from the solar cells to the bat
 </p>
 
 ## Ghorilard Software Module
+<p align="center">
+  <img src="https://github.com/ghofaralhasyim/end-device-ghorilard/blob/main/assets/Screenshot%20(117).png" width=300>
+</p>
+<p align="center">
+  Figure 4. Ghorilard Software Module
+</p>
 
-
-
+  Software Module on Ghorilard Project is divided in 4 module:
+  - Main Module 
+    - This is the main module consists void setup() and void loop()
+    - void setup() consists initiate library and variabel
+    - void loop() consists tryConnectWifi() module, getSensor() module, sendAPI() module, and the other syntax to support our program
+  - tryConnectWifi()
+    - check status of Wifi, if connected will return and go to the next step. Otherwise will delay 500mikrosecond and try to connect again
+  - getSensor()
+    - read the ph sensor and temperature sensor and strore to the array
+    - Calculate that value and return
+  - sendAPI()
+    - Check wifi connection
+    - Send HTTP Post (Token, PH, Water_Temperature)
 
 ## Ghorilard Workflow
 - Device will turn on and start to get a sensor value
