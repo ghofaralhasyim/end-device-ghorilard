@@ -6,7 +6,7 @@ For Frontend of Ghorilard Project, Github Link: [https://github.com/ghofaralhasy
 
 For Backend of Ghorilard Project, Github Link: [https://github.com/RichardAlvin/be-ghorilard](https://github.com/RichardAlvin/be-ghorilard)
 
-For Simulation and Description of Ghorilard Project, Youtube Link:
+For Simulation and Description of Ghorilard Project, Youtube Link: [https://youtu.be/ViWVCJh-_Is] (https://youtu.be/ViWVCJh-_Is)
 
 ## Ghorilard Architecture
 <p align="center">
