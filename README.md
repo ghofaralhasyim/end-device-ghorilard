@@ -69,6 +69,9 @@ TP4056A a charging module that will charge power from the solar cells to the bat
 
 ## Ghorilard Software Module
 
+
+
+
 ## Ghorilard Workflow
 - Device will turn on and start to get a sensor value
 - The power source of the device comes from sunlight that will convert to power by solar cell
